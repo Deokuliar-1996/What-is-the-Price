@@ -21,11 +21,11 @@ Note: Our models take a lot of space and hence the web application is about 2 to
 <img width="837" alt="image" src="https://user-images.githubusercontent.com/46833935/168212272-669e6447-0d40-4426-8414-eb702c541920.png">
 <img width="799" alt="image" src="https://user-images.githubusercontent.com/46833935/168212296-6a002c1a-4c1d-424a-b68a-0ede8f94a833.png">
 
-**Watches Classification and Regression**
+##Watches Classification and Regression##
 
 ![](https://github.com/Deokuliar-1996/What-is-the-Price/blob/master/streamlit%20app/Watches.gif)
 
-**Bags Classification and Regression**
+##Bags Classification and Regression##
 
 ![](https://github.com/Deokuliar-1996/What-is-the-Price/blob/master/streamlit%20app/Bags.gif)
 
