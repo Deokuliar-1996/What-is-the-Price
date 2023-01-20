@@ -8,6 +8,10 @@ The project has four .ipynb files - watch_classification.ipynb, regression_watch
 
 The data was collected from online retail websites using beautiful soup. Rebag.com was used for handbags data and chrono24.com was used to collect watches data.The prices, image names, and labels were stored in a csv file, whose mapping would be used later for training. A total of 16591 image data was scraped for handbags and 13411 images for watches.
 
+## Dataset
+
+After filtering low occurance brands , we finally finished with 8 classes for handbags in our dataset and 3 classes for watches. 
+
 
 ## Watch and Bags Classification and Regression
 Both of the classification and Regression ipynb files consists of 3 models each namely a Custom Model, InceptionV3 Transfer Learning model, DenseNet201 Transfer learning model. Thus in a way we trained 12 models for this project.
@@ -28,6 +32,11 @@ Note: Our models take a lot of space and hence the web application is about 2 to
 ##Bags Classification and Regression##
 
 ![](https://github.com/Deokuliar-1996/What-is-the-Price/blob/master/streamlit%20app/Bags.gif)
+
+## Results
+
+1. For the watches, DenseNet201 had the best accuracy for classification of 88.61% and for price estimation it had a rmse of 14486.
+2. For the Bags, DenseNet201 had the best accuracy for classification of 63% and for price estimation it had a rmse of 866.95.
 
 ## Lessons Learned and Perspectives
 
