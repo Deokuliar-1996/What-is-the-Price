@@ -29,7 +29,7 @@ Note: Our models take a lot of space and hence the web application is about 2 to
 
 ![](https://github.com/Deokuliar-1996/What-is-the-Price/blob/master/streamlit%20app/Watches.gif)
 
-## Bags Classification and Regression##
+## Bags Classification and Regression
 
 ![](https://github.com/Deokuliar-1996/What-is-the-Price/blob/master/streamlit%20app/Bags.gif)
 
