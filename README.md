@@ -1,4 +1,4 @@
-# What-s-the-Price
+# What-is-the-Price
 
 # Deep Learning Project: Retail image classification and regression
 A quick guide on installation of important libraries and running the code.
