@@ -4,6 +4,11 @@
 A quick guide on installation of important libraries and running the code.
 The project has four .ipynb files - watch_classification.ipynb, regression_watch.ipynb, bags_classification and bags_regression.ipynb
 
+## Data Collection
+
+The data was collected from online retail websites using beautiful soup. Rebag.com was used for handbags data and chrono24.com was used to collect watches data.The prices, image names, and labels were stored in a csv file, whose mapping would be used later for training. A total of 16591 image data was scraped for handbags and 13411 images for watches.
+
+
 ## Watch and Bags Classification and Regression
 Both of the classification and Regression ipynb files consists of 3 models each namely a Custom Model, InceptionV3 Transfer Learning model, DenseNet201 Transfer learning model. Thus in a way we trained 12 models for this project.
 
@@ -15,6 +20,13 @@ Note: Our models take a lot of space and hence the web application is about 2 to
 <img width="955" alt="image" src="https://user-images.githubusercontent.com/46833935/168212252-db61ede6-65bb-463b-9003-f4b5d669110c.png">
 <img width="837" alt="image" src="https://user-images.githubusercontent.com/46833935/168212272-669e6447-0d40-4426-8414-eb702c541920.png">
 <img width="799" alt="image" src="https://user-images.githubusercontent.com/46833935/168212296-6a002c1a-4c1d-424a-b68a-0ede8f94a833.png">
+
+**Watches Classification and Regression**
+
+
+**Bags Classification and Regression**
+
+![](https://github.com/Deokuliar-1996/Video-Game-recommendation/blob/main/flask%20app/Basic_recommender.gif)
 
 ## Lessons Learned and Perspectives
 
