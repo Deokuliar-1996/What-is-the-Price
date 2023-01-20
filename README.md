@@ -25,4 +25,4 @@ To create efficient models , it is important to have good quality data. Maybe mo
 3. Image regression for price prediction is a difficult task when you have many unique price points. Regression may be improved if we put prices range in various categorical bins.
 
 ## Contributors
-© Sameer Mahajan © Harsh Deokuliar
+© Harsh Deokuliar © Sameer Mahajan
